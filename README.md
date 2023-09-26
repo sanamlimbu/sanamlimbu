@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am a Software Developer based in Perth📍. I have a solid technical background and demonstrated history of delivering high-quality web applications.
+I am a Software Developer based in Perth📍. I have a solid technical background and a demonstrated history of delivering high-quality web applications.
 
-I am comfortable with following tech: 
-- ReactJS
+I am comfortable with the following tech: 
+- React
 - TypeScript
 - Go
 - PostgreSQL
