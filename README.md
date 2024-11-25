@@ -1,14 +1,11 @@
-### Hi there 👋
+### Hello 👋
 
-I am a Software Developer based in Perth📍. I have a solid technical background and a demonstrated history of delivering high-quality web applications.
+I am a Software Developer based in Perth📍. I have experience building impactful software solutions using the following technologies:
 
-I am comfortable with the following tech: 
 - React
 - TypeScript
 - Go
 - PostgreSQL
-- Docker
-- Linux
 - AWS
 
 [www.limbu.dev](https://limbu.dev) 
